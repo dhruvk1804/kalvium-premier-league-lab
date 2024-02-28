@@ -311,3 +311,11 @@ body {
     padding: 4px;
     cursor: pointer;
 }
+
+#foot{
+    font-size: 20px;
+    position: relative;
+    left: 700px;
+    top: 70px;
+    font-weight: 500;
+}
